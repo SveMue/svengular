@@ -6,6 +6,10 @@ Modifed with Docker from github.com/SveMue .
 
 ## Execute with docker
 
+Install Docker Desktop: https://www.docker.com/products/docker-desktop 
+
+Once installed, open the docker settings, browse to "shared devices" and active it. 
+
 Run 'docker-composer up' to start the server.
 
 This will create and start the project inside a runing docker container.
